@@ -24,6 +24,10 @@ An empirical analysis of medical marijuana legalization's impact on unemployment
 - R-squared: 0.235
 - Significant control variables identified in GDP and education levels
 
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
 ## Installation & Usage
 ```bash
 git clone https://github.com/grantjackson580/Medical-Marijuana-Unemployment-Analysis
