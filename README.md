@@ -26,8 +26,8 @@ An empirical analysis of medical marijuana legalization's impact on unemployment
 
 ## Installation & Usage
 ```bash
-git clone https://github.com/yourusername/medical-marijuana-unemployment-analysis
-cd medical-marijuana-unemployment-analysis
+git clone https://github.com/grantjackson580/Medical-Marijuana-Unemployment-Analysis
+cd Medical-Marijuana-Unemployment-Analysis
 pip install -r requirements.txt
 
 
